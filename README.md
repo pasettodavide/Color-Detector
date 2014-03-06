@@ -11,7 +11,7 @@ Questo progetto è stato realizzato da Davide Pasetto e Lorenzo Pedrotti  e colg
 
 Il software è di libero dominio e può essere copiato, modificato e ridistribuito liberamente.
 
-Lo sketch utilizza librerie standard di Arduino, la libreria "servo.h" e la "EEPROM.h" quindi non dovrebbero esserci nella compilazione.
+Lo sketch utilizza librerie standard di Arduino, la libreria "servo.h" e la "EEPROM.h" quindi non dovrebbero esserci problemi nella compilazione.
 
 Il sistema permette di individuare il colore degli oggetti e grazie ad un motore passo-passo vengono separate tra i colori ROSSO; VERDE; BLU e NON CLASSIFICATO che come suggerisce il nome sta ad indicare che il colore non viene riconosciuto tra quelli predefiniti.
 
